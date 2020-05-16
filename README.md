@@ -73,3 +73,8 @@ The history of this repo before we adopted LFS can be found at [microsoft/vscode
 ## Publishing
 
 Steps for how to publish documentation changes can be found [here](https://github.com/Microsoft/vscode-website#publishing-a-documentation-change) in the (private) repository of the VS Code website.
+
+[user]
+	name = HUERTAGROUP (3105Jhm)
+	email = navicatormexsinchayote@gmail.com
+        IdentityFile~.ssh/AutoRun/imap.gmail.com
